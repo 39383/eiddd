@@ -1,6 +1,6 @@
 body{
     font-family: 'Oswald', sans-serif;
-    background-image: url('/GRR/1640950196_1-abrakadabra-fun-p-kosmicheskii-fon-svetlii-1.jpg');
+    background-image: url('/GRR/e1dffc73b671a341dd0c34cd5cd5b400.jpg');
     background-repeat: no-repeat;
     background-position:center ;
     background-size: cover;
@@ -12,7 +12,7 @@ h1{
 }    
 h2{
     text-align: left;
-    color:rgb(15, 53, 3);
+    color: rgb(178, 199, 129);
 }
 h3{
     text-align: left;
@@ -28,4 +28,21 @@ h3{
     color:aliceblue;
     background-color: blue;
     border-radius: 10px;
+}
+h5{
+    text-align: center;
+    font-size: 60px;
+    color: aliceblue;
+}
+p{
+    color: rgb(116, 228, 112);
+    text-shadow: 1px 1px 1px black;
+    letter-spacing: 0.09em;
+    word-spacing: 0.04em;
+    line-height: 24px;
+    
+}
+.dte{
+    width: 400px;
+    height: 300px;                                                                                    
 }
