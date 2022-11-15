@@ -12,11 +12,13 @@ h1{
 }    
 h2{
     text-align: left;
+    text-shadow: 1px 1px 1px black;
     color: rgb(178, 199, 129);
 }
 h3{
     text-align: left;
     font-size: 45px;
+    text-shadow: 1px 1px 1px black;
 }
 .ufu{
     width: 500px;
@@ -33,6 +35,7 @@ h5{
     text-align: center;
     font-size: 60px;
     color: aliceblue;
+    text-shadow: 1px 1px 1px black;
 }
 p{
     color: rgb(116, 228, 112);
@@ -45,4 +48,16 @@ p{
 .dte{
     width: 400px;
     height: 300px;                                                                                    
+}
+h1{
+    text-shadow: 1px 1px 1px black; 
+}
+@keyframes show{
+    0%{
+        opacity:0;
+    }
+
+    100%{
+        opacity:1;
+    }
 }
